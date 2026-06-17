@@ -41,10 +41,9 @@ Combino un profundo conocimiento en programación lógica con habilidades especi
 ---
 ### 📊 Mis Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seeltir&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seeltir&layout=compact&theme=dark" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Seeltir&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Seeltir&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </p>
-
 
 ---
 <p align="center">
