@@ -1,13 +1,17 @@
-# ¡Hola! Soy un Desarrollador Backend orientado a la Seguridad 🚀
+<p align="right">
+  <strong>🇪🇸 Versión en Español: <a href="./README.md">Haz clic aquí</a></strong>
+</p>
 
-## 📝 Resumen Profesional
-Soy un **Desarrollador Backend** versátil y enfocado en la seguridad, con experiencia en la construcción de arquitecturas robustas tanto para entornos web como móviles. Manejo el ciclo completo de desarrollo de software: desde la conceptualización y el diseño de UI/UX, hasta el despliegue y la optimización. 
+# Hi! I'm a Security-Oriented Backend Developer 🚀
 
-Combino un profundo conocimiento en programación lógica con habilidades especializadas en auditorías de seguridad web (**Pentesting**) y flujos de trabajo técnico-artísticos multimedia. Me considero un aprendiz autodidacta y constante, motivado por resolver problemas lógicos complejos y diseñar productos digitales seguros por definición.
+## 📝 Professional Summary
+I am a versatile and security-focused **Backend Developer** with experience building robust architectures for both web and mobile environments. I handle the full software development lifecycle: from conceptualization and UI/UX design to deployment and optimization.
+
+I combine deep knowledge in logical programming with specialized skills in web security audits (**Pentesting**) and technical-artistic multimedia workflows. I consider myself a self-taught, constant learner, motivated by solving complex logical problems and designing digital products that are secure by definition.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 
 ### 🖥️ Backend & Core Web
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,15 +22,15 @@ Combino un profundo conocimiento en programación lógica con habilidades especi
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📱 Desarrollo Móvil
+### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🔒 Seguridad & Automatización
+### 🔒 Security & Automation
 ![Pentesting](https://img.shields.io/badge/Web_Security_Audits-🛡️-red?style=for-the-badge)
 ![Python Automation](https://img.shields.io/badge/Automation_Scripting-🐍-blue?style=for-the-badge)
 ![OCR Tesseract](https://img.shields.io/badge/OCR_Tesseract-🔍-orange?style=for-the-badge)
 
-### 🎨 Diseño & Multimedia
+### 🎨 Design & Multimedia
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Houdini](https://img.shields.io/badge/Houdini-FF4500?style=for-the-badge&logo=houdini&logoColor=white)
@@ -34,18 +38,15 @@ Combino un profundo conocimiento en programación lógica con habilidades especi
 
 ---
 
-## 📈 Estadísticas de GitHub
-*(Opcional: Si quieres mostrar tu actividad, desmarca estas líneas borrando los caracteres `<!--` y `-->`)*
+## 📈 GitHub Stats
 
-
----
-### 📊 Mis Estadísticas
+### 📊 My Stats
 <p align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api?username=Seeltir&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Seeltir&layout=compact&theme=dark" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=Seeltir&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Seeltir&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
 <p align="center">
-¡Gracias por visitar mi perfil! 🤝
+Thanks for visiting my profile! 🤝
 </p>
